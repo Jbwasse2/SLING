@@ -1,0 +1,11 @@
+wandb/*
+*/__pycache__
+*.pyc
+.dumbo.json
+data/
+core*
+*.log
+*.err
+results/*
+checkpoint/
+models/*

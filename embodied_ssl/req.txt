@@ -1,0 +1,13 @@
+absl-py==0.13.0
+attrs==21.2.0
+cycler==0.10.0
+cython==0.29.24
+dataclasses==0.8
+matplotlib==3.3.4
+numpy==1.19.2
+opencv-python==3.4.1.15
+torch==1.10.0
+scipy==1.5.2
+six==1.16.0
+torchaudio==0.10.0
+torchvision==0.11.1
