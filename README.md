@@ -1,6 +1,8 @@
 # SLING and OVRL-GD/DDPPO-GD
 This repository includes the code that can be used to reproduce the results of our paper [Last-Mile Embodied Visual Navigation](https://jbwasse2.github.io/portfolio/SLING/). 
 
+![teaser](images/teaser.png)
+
 This branch contains code to run a __OVRL-GD and DDPPO-GD__ exploration with  SLING. If you are interested in SLING + NRNS-GD/Straight-GD, please see the Experiment Variations section.
 
 ## 🗺 Table of Contents

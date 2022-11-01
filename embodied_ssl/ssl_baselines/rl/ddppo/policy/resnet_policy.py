@@ -263,6 +263,7 @@ class PointNavResNetNet(Net):
         self._n_prev_action = 32
         rnn_input_size = self._n_prev_action
 
+#
 #        if IntegratedPointGoalGPSAndCompassSensor.cls_uuid in observation_space.spaces:
 #            n_input_goal = (
 #                observation_space.spaces[

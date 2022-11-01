@@ -41,4 +41,5 @@ TASK:
 DATASET:
   TYPE: PointNav-v1
   SPLIT: train
+  DIFFICULTY: easy
   DATA_PATH: data/datasets/pointnav/gibson/v1/{split}/{split}.json.gz
